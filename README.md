@@ -9,3 +9,5 @@ This repository contains some small project that I made to play with machine lea
    2. [Lesson 2](https://github.com/s-r-aman/fastdotai/fastai_2.ipynb).
    3. [Random Forest From Scratch](/fastdotai/rf_scratch.ipynb)
    4. [BlueBooks For Bulldozer](/blue_book_for_bulldozer.ipynb)
+4. Fast AI - Deep Learning Course
+   1. [Lesson 1](/fastdotai_dl/lesson_1.ipynb)
