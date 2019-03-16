@@ -9,7 +9,7 @@ This repository contains some small project that I made to play with machine lea
    2. [Lesson 2](/fastdotai/fastai_2.ipynb).
    3. [Random Forest From Scratch](/fastdotai/rf_scratch.ipynb)
    4. [BlueBooks For Bulldozer](/blue_book_for_bulldozer.ipynb)
-4. Fast AI - Deep Learning Course
+4. [Fast AI - Deep Learning Course]
    1. [Lesson 1 - Pets](/fastdotai_dl/lesson1-pets.ipynb)
    1. [Lesson 2 - Download](/fastdotai_dl/lesson2_download.ipynb)
    1. [Lesson 2 - SGD](/fastdotai_dl/lesson2_sgd.ipynb)
