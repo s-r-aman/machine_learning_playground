@@ -16,5 +16,5 @@ This repository contains some small project that I made to play with machine lea
    1. [Lesson3 - Planet](/fastdotai_dl/lesson3_planet.ipynb)
    1. [Lesson3 - Camvid](/fastdotai_dl/lesson3_camvid.ipynb)
    1. [Lesson3 - Headpose](/fastdotai_dl/lesson3_headpose.ipynb)
-   1. [Lesson4 - collab](/fastdotai_dl/lesson4_collab.ipynb)
-   1. [Lesson4 - tabular](/fastdotai_dl/lesson4_tabular.ipynb)
+   1. [Lesson4 - Collab](/fastdotai_dl/lesson4_collab.ipynb)
+   1. [Lesson4 - Tabular](/fastdotai_dl/lesson4_tabular.ipynb)
